@@ -1,0 +1,1 @@
+# ShopSmart C++ Project Files
